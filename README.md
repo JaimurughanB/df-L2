@@ -18,7 +18,7 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 - Launch **Autopsy** and **Run as a administrator**  
 - Click **Create New Case**.
-` ![image](https://github.com/user-attachments/assets/bc7785cd-d9cb-4eed-913e-be53b7715344) 
+ ![image](https://github.com/user-attachments/assets/bc7785cd-d9cb-4eed-913e-be53b7715344) 
 - Enter a **Case Name** (e.g., `Autopsy1`).  
 - Choose a **Case Folder** location.  
 - Click **Next** → Click **Finish**. 
